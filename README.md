@@ -10,3 +10,6 @@ Scrolling Wheel: Scroll to zoom the camera in or out. Press down to reset the zo
 # How to Run
 Download BepInEx 5.4.21 and copy it into your Thronefall directory. Run the game once if this is the first mod you're installing. Inside the BepInEx folder, find the "Plugins" folder or create it. Download the FreeCam release and unzit the foldr into the plugins folder. Voila!
 
+# Get the mod on Thunderstore
+https://thunderstore.io/c/thronefall/p/MadOliveMods/ThronefallFreeCamMod/
+
